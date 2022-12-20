@@ -12,7 +12,7 @@ Projects related to data science / analytics which comprises of academic or self
 
 ### Micro Projects
 *Python*
-+ [**Investigating Netflix Movies and Guest Stars in The Office **](https://github.com/k-ersan/data-science-portfolio/tree/main/Investigating%20Netflix%20Movies) 
++ [**Investigating Netflix Movies and Guest Stars in The Office**](https://github.com/k-ersan/data-science-portfolio/tree/main/Investigating%20Netflix%20Movies) 
 
 *SQL*
 + [**Analyzing International Debt Statistics**](https://github.com/k-ersan/data-science-portfolio/tree/main/Analyzing%20International%20Debt) 
