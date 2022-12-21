@@ -7,7 +7,8 @@ Projects related to data science / analytics which comprises of academic or self
 
 **Background Information and Objective**\
 Utilizing Machine Learning methods to create models in order to predict the damage grade of Kaggle dataset - 1,2 or 3 and comparing which algorithm is most suitable and efficient in this case, considering different accuracy parameters (accuracy score, micro/macro/weighted f1 and average score) and also the trade-offs between features and computational times of the different algorithms.\
-**Machine Learning Methods** : K-Nearest Neighbours, Random Forest, Stochastic Gradient Descent.\
+**Machine Learning Methods** : K-Nearest Neighbours, Random Forest, Stochastic Gradient Descent.
+
 **Tools and Skills**: Pandas, Matplotlib, Seaborn, Scikit-Learn, Data Analysis, Data Visualization, Exploratory Data Analysis.
 
 ### Micro Projects
@@ -16,6 +17,7 @@ Utilizing Machine Learning methods to create models in order to predict the dama
 
 **Background Information and Objective**\
 When pressing "watch next episode" on Netflix, you start to feel that movies are getting shorter than they were years ago and notice that some guest stars appears more in the most popular episodes of "The Office". By utilizing different tools visualization and data exploratory tools, we can approach the answer to this better.
+
 **Tools and Skills**: Pandas, Matplotlib, Exploratory Data Analysis
 
 *SQL*
@@ -26,7 +28,6 @@ It's not that we humans only take debts to manage our necessities. A country may
 + What is the total amount of debt that is owed by the countries listed in the dataset?
 + Which country owns the maximum amount of debt and what does that amount look like?
 + What is the average amount of debt owed by countries across different debt indicators?
-
 
 **Tools and Skills**: Data Manipulation, Iporting and Cleaning Data
 
