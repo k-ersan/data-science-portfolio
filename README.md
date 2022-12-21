@@ -32,5 +32,5 @@ It's not that we humans only take debts to manage our necessities. A country may
 **Tools and Skills**: Data Manipulation, Iporting and Cleaning Data
 
 
-##Contact
+## Contact
 Shoot me an email at keziaersan@icloud.com to have a chat about the portfolio, work opportunities, collaborations and many more
