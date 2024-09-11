@@ -33,4 +33,4 @@ It's not that we humans only take debts to manage our necessities. A country may
 
 
 ## Contact
-Shoot me an email at keziaersan@icloud.com to have a chat about the portfolio, work opportunities, collaborations and many more
+Shoot me an email at kezersan@gmail.com to have a chat about the portfolio, work opportunities, collaborations and many more
